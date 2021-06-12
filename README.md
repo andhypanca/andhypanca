@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andhy Panca Saputra</h1>
+<h1 align="center">Hi 👋, I'm Andhy Panca</h1>
 <h3 align="center">A passionate to AI project (Deep Learning, Neural Network, and Images Processing)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andhypanca&label=Profile%20views&color=0e75b6&style=flat" alt="andhypanca" /> </p>
